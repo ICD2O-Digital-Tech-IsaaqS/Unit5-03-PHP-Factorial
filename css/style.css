@@ -1,4 +1,31 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Isaaq Simon
+* Created on: June 2025
+* This file contains the CSS for index.php
 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 30px;
+}
+
+h1 {
+    color: #222;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.output {
+    margin-top: 15px;
+    font-weight: bold;
+    background-color: #fff;
+    padding: 10px;
+    border-left: 5px solid #007BFF; }
